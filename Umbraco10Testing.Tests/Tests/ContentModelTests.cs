@@ -2,7 +2,7 @@ using AutoFixture.NUnit3;
 using Moq;
 using NUnit.Framework;
 using Umbraco.Cms.Core.Models.PublishedContent;
-using Umbraco10Testing.Web.Features;
+using Umbraco10Testing.Tests.Features;
 
 namespace Umbraco10Testing.Tests
 {

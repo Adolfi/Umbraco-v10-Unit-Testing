@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 using NUnit.Framework;
-using Umbraco10Testing.Web.Features;
+using Umbraco10Testing.Tests.Features;
 
 namespace Umbraco10Testing.Tests
 {

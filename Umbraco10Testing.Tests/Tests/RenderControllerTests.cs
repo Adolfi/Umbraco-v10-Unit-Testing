@@ -9,7 +9,7 @@ using Umbraco.Cms.Core.Models.PublishedContent;
 using Umbraco.Cms.Core.Web;
 using Umbraco.Cms.Web.Common;
 using Umbraco.Cms.Web.Common.Controllers;
-using Umbraco10Testing.Web.Features;
+using Umbraco10Testing.Tests.Features;
 
 namespace Umbraco10Testing.Tests
 {
